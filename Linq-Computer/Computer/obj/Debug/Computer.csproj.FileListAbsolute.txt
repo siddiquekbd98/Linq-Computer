@@ -1,0 +1,7 @@
+D:\Users\Abu bakor\source\repos\Computer\Computer\bin\Debug\Computer.exe.config
+D:\Users\Abu bakor\source\repos\Computer\Computer\bin\Debug\Computer.exe
+D:\Users\Abu bakor\source\repos\Computer\Computer\bin\Debug\Computer.pdb
+D:\Users\Abu bakor\source\repos\Computer\Computer\obj\Debug\Computer.csprojAssemblyReference.cache
+D:\Users\Abu bakor\source\repos\Computer\Computer\obj\Debug\Computer.csproj.CoreCompileInputs.cache
+D:\Users\Abu bakor\source\repos\Computer\Computer\obj\Debug\Computer.exe
+D:\Users\Abu bakor\source\repos\Computer\Computer\obj\Debug\Computer.pdb
